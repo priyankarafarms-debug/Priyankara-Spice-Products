@@ -30,7 +30,7 @@ a { color: inherit; }
 .nav-links .nav-cta { color: white; background: var(--red); padding: 12px 20px; border-radius: 3px; }
 .nav-links .nav-cta:hover { background: var(--red-dark); color: white; }
 .menu-toggle { display: none; border: 0; background: none; color: var(--red-dark); font-size: 27px; cursor: pointer; }
-.hero { min-height: 650px; position: relative; isolation: isolate; display: flex; align-items: center; padding: 80px 10%; color: white; background: #55251d url('YOUR_HERO_IMAGE_URL') center/cover no-repeat; overflow: hidden; }
+.hero { min-height: 650px; position: relative; isolation: isolate; display: flex; align-items: center; padding: 80px 10%; color: white; background: #55251d url('Priyankara Natural Chilli Powder.png') center/cover no-repeat; overflow: hidden; }
 .hero-shade { position: absolute; inset: 0; z-index: -1; background: linear-gradient(90deg, rgba(35,17,13,.9) 0%, rgba(55,24,18,.78) 48%, rgba(53,23,17,.2) 100%); }
 .hero-content { max-width: 700px; }
 .eyebrow, .section-kicker { font-size: 11px; font-weight: 800; letter-spacing: 3px; }
